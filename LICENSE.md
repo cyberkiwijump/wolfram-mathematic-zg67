@@ -1,4 +1,4 @@
-# 
+# Enhance Wolfram Mathematica for macOS with professional Wolfram Mathematica for macOS Extension | data-visualization + real-time-collaboration, the #1 extension. Includes
 
 
 
